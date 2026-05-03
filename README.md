@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bhusalbiraj
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning advanced Javascript.
+- 👀 I’m interested in machine learning and AI.
 - 📫 How to reach me: Instagram: bhusal_biraj
 
 <!---
