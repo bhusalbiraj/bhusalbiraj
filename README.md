@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bhusalbiraj
+- 👋 Hi, I’m @biraj
 - 👀 I’m interested in machine learning and AI.
 - 📫 How to reach me: Instagram: bhusal_biraj
 
