@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biraj
+- 👋 Hi, I’m @biraj. I am from Nepal and currently a first year computer engineering student.
 - 👀 I’m interested in machine learning and AI.
 - 📫 How to reach me: Instagram: bhusal_biraj
 
